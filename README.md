@@ -117,9 +117,9 @@ dagster dev
 This overview provides a detailed guide to the **lab08** dashboard, including information about the datasets, charts, and interactive features. The dashboard consists of two parts:
 
 1. **Easy Part**: Focused on high-level analytics of hourly events, purchases, and leading to purchase pages.
-   ![Dashboard Overview](images/dashboard_p1.png)
+   ![Dashboard Overview](img/dashboard_p1.png)
 2. **Harder Part**: Provides advanced breakdowns of performance by browsers, devices, campaigns, and regions.
-   ![Dashboard Overview](images/dashboard_p2.png)
+   ![Dashboard Overview](img/dashboard_p2.png)
 
 ---
 
