@@ -1,0 +1,4 @@
+storage:
+  sqlite:
+    base_dir:
+      env: SQLITE_STORAGE_BASE_DIR
